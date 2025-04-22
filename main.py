@@ -5,10 +5,13 @@ print('status -- success')
 #addition function
 def add(x,y):
     return x+y
-
 print('The sum is:',add(10,30))
 
 #substraction function
 def sub(a,b):
     return a-b
 print('The Substraction is ',sub(20,10))
+
+# multiplication function
+def mul(s,v):
+    print('Product is :',mul(5,5))
